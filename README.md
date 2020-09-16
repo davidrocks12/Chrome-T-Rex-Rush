@@ -46,3 +46,4 @@ Email: shivamshekhar299@gmail.com
 #### References:
 * http://www.pygame.org/docs
 * https://github.com/wayou/t-rex-runner
+[![Run on Repl.it](https://repl.it/badge/github/shivamshekhar/Chrome-T-Rex-Rush)](https://repl.it/github/shivamshekhar/Chrome-T-Rex-Rush)
